@@ -13,7 +13,7 @@ if (gameId) {
  * @param {string} id - The ID of the game to fetch details for
  */
 function fetchGameDetails(id) {
-    const apiKey = '597efc0e1314442aa3924922abd7d2b9'; // RAWG API key
+    const apiKey = 'f2ed114f4b6d445ca565684e58a5f9d7'; // RAWG API key
     const apiUrl = `https://api.rawg.io/api/games/${id}?key=${apiKey}`; // API URL with the game ID and API key
 
     fetch(apiUrl)
