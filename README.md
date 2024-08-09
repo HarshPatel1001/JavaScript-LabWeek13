@@ -50,3 +50,5 @@ To set up and run the Game Store Application, follow these steps:
    - **Game Cards:** Displays basic information about each game in a card format.
    - **Details Page:** Shows comprehensive information about a selected game.
    - **Filters:** Enables users to refine their search by genre or platform.
+
+Link to output https://harshpatel1001.github.io/JavaScript-LabWeek13/
